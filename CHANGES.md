@@ -1,6 +1,6 @@
 ### 1.2.0 (2016-12-21)
 
-* import `V1.MCLOCK` and `V1.PCLOCK` from `mirage-types` under `mirage-clock`
+* import `Mirage_types.MCLOCK` and `Mirage_types.PCLOCK` from `mirage-types` under `mirage-clock`
   and `mirage-clock-lwt`
 
 ### 1.1.0 (2015-01-05):
